@@ -28,7 +28,10 @@ For more information and detailed usage instructions, please visit our [Wiki](li
 
 ## 📥 Installation
 
-1. Download the latest MSI version from the release page
+1. Download the latest MSI version from the release page.
 2. Simply install it by running the MSI file.
 3. Done! With just two clicks, you're ready to go!
 
+## 🛠 Facing Any Issues?
+
+If you encounter any issues, please raise a bug report [here](https://github.com/ivao-in/sector_file_creator/issues). I will fix it as soon as possible!
