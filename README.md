@@ -1,1 +1,33 @@
-# sector_file_creator
+# Sector File Creator
+
+## 🚀 Introduction
+
+**Sector File Creator** is a powerful application designed to simplify the creation and management of sector files for airports. With user-friendly features, it allows you to generate TFL files, manage taxiway layouts, and configure runways efficiently.
+
+## 🛠 Features
+
+- **Generate TFL Files**: Easily create ground layouts for your airport.
+- **Taxiway Lines**: Add taxiway lines to your layouts for better navigation.
+- **Taxiway Labels**: Label your taxiways to keep everything organized.
+- **Runway Configuration**: Generate runway configurations as needed.
+
+## 📦 Requirements
+
+To use the **Sector File Creator**, you will need:
+
+- A valid KML file for input.
+- .NET Framework (version needed, specify if applicable).
+
+## ⚠️ Note
+
+Currently, the preview function is not available, but it is in the works for a future update.
+
+## 📚 Wiki
+
+For more information and detailed usage instructions, please visit our [Wiki](link-to-your-wiki).
+
+## 📥 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/SectorFileCreator.git
