@@ -28,6 +28,7 @@ For more information and detailed usage instructions, please visit our [Wiki](li
 
 ## 📥 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SectorFileCreator.git
+1. Download the latest MSI version from the release page
+2. Simply install it by running the MSI file.
+3. Done! With just two clicks, you're ready to go!
+
