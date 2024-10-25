@@ -16,7 +16,7 @@
 To use the **Sector File Creator**, you will need:
 
 - A valid KML file for input.
-- .NET Framework (version needed, specify if applicable).
+- .NET Framework.
 
 ## ⚠️ Note
 
