@@ -24,7 +24,7 @@ Currently, the preview function is not available, but it is in the works for a f
 
 ## 📚 Wiki
 
-For more information and detailed usage instructions, please visit our [Wiki](link-to-your-wiki).
+For more information and detailed usage instructions, please visit our [Wiki](https://wiki.in.ivao.aero/en/division/sector-file-creator).
 
 ## 📥 Installation
 
