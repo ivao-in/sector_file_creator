@@ -32,6 +32,6 @@ For more information and detailed usage instructions, please visit our [Wiki](ht
 2. Simply install it by running the MSI file.
 3. Done! With just two clicks, you're ready to go!
 
-## 🛠 Facing Any Issues?
+## 🛠 Facing Any Issues or Suggestions?
 
-If you encounter any issues, please raise a bug report [here](https://github.com/ivao-in/sector_file_creator/issues). I will fix it as soon as possible!
+If you encounter any issues, please raise a bug report [here](https://github.com/ivao-in/sector_file_creator/issues) or suggestions please email me at veda.moola@ivao.aero or contact me on Discord: Veda3848. I will fix it as soon as possible!
