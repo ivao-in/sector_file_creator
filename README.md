@@ -10,6 +10,9 @@
 - **Taxiway Lines**: Add taxiway lines to your layouts for better navigation.
 - **Taxiway Labels**: Label your taxiways to keep everything organized.
 - **Runway Configuration**: Generate runway configurations as needed.
+- **SID and STAR Data**: Generate SID and STAR configurations as needed.
+- **Country Boundary Data**: Generate country border/boundary data as needed.
+
 
 ## 📦 Requirements
 
@@ -17,6 +20,7 @@ To use the **Sector File Creator**, you will need:
 
 - A valid KML file for input.
 - .NET Framework.
+- Be a staff of IVAO Network
 
 ## ⚠️ Note
 
