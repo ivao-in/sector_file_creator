@@ -12,6 +12,7 @@
 - **Runway Configuration**: Generate runway configurations as needed.
 - **SID and STAR Data**: Generate SID and STAR configurations as needed.
 - **Country Boundary Data**: Generate country border/boundary data as needed.
+- **FIR Data**: Generate FIR data as needed.
 
 
 ## 📦 Requirements
