@@ -13,7 +13,8 @@
 - **SID and STAR Data**: Generate SID and STAR configurations as needed.
 - **Country Boundary Data**: Generate country border/boundary data as needed.
 - **FIR Data**: Generate FIR data as needed.
-
+- **Get Airport Data**: Generate Airport data as needed
+- **Fetch Flight Schedules**: Using FR24, get the latest schedules of a certain airport
 
 ## 📦 Requirements
 
@@ -22,10 +23,6 @@ To use the **Sector File Creator**, you will need:
 - A valid KML file for input.
 - .NET Framework.
 - Be a staff of IVAO Network
-
-## ⚠️ Note
-
-Currently, the preview function is not available, but it is in the works for a future update.
 
 ## 📚 Wiki
 
